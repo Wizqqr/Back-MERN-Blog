@@ -1,0 +1,15 @@
+# Node.js/Express
+node_modules/
+npm-debug.log
+.env
+.DS_Store
+coverage/
+build/
+dist/
+.vscode/
+.idea/
+
+# Общие
+*.iml
+*.swp
+*.swo
